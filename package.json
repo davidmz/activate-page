@@ -5,7 +5,7 @@
   "keywords": [],
   "author": "David Mzareulyan <david@hiero.ru>",
   "license": "MIT",
-  "homepage": "https://github.com/...",
+  "homepage": "https://github.com/davidmz/activate-page",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
